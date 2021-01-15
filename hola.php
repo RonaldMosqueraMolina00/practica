@@ -1,4 +1,4 @@
 <?php
-echo "hola mundo"
-  echo "Ronald Mosquera"
-  echo "bien ya me salio xd"
+echo "hola mundo\n";
+  echo "Ronald Mosquera\n";
+  echo "bien ya me salio xd\n";
